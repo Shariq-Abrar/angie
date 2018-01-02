@@ -1,0 +1,19 @@
+
+@media screen and (max-width: 550px){
+
+	.container1{
+		background-image: url("https://res.cloudinary.com/dkxkjk1ti/image/upload/v1511794579/c9767d807b03d77a2fc2eb733567173a_n2htfm.jpg");
+	}
+	.glowImg{
+		margin-bottom: -216px;
+	}
+}
+@media screen and (max-width: 764px){
+	.navbar-brand{
+		
+		cursor: pointer;
+		
+	}
+}
+
+

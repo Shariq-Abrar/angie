@@ -1,0 +1,335 @@
+.barnav{
+	border: 2px solid transparent;
+}
+.barnav h3{
+
+	position: relative;
+	left: 30px;
+	top: 15px;
+	cursor: pointer;
+}
+.navbar-nav {
+    float: right;
+    margin: 0;
+    font-size: 15px;
+    position: relative;
+    top: -52px;
+}
+/*ol li{
+	position: relative;
+	bottom: 20px;
+	font-size: 20px;
+}*/
+.bars{
+	border: 1px solid transparent;
+	width: 50%;
+	float: right;
+}
+.bars button{
+	float: right;
+	font-size: 30px;
+	color: #E76E36;
+	position: relative;
+	bottom: 30px;
+}
+.navbar-nav li{
+	float: right;
+	font-family: 'Dosis', sans-serif;
+}
+#myNavbar ol{
+	float: right;
+	position: relative;
+	top: -70px;
+	font-size: 20px;
+
+}
+.navbar-toggle{
+	position: relative;
+	top: 15px;
+	font-size: 20px;
+	color: #EC6917;
+	border: 1px solid transparent;
+}
+.navbar-brand{
+	font-size: 30px;
+	font-family: 'Dosis', sans-serif;
+	
+}
+.glyphicon:hover{
+	color:#EC6917; 
+}
+.navbar-toggle:hover{
+	border: 1px solid transparent;
+}
+li a{
+	color: black;
+}
+.container1{
+/*background-image: url("https://res.cloudinary.com/dkxkjk1ti/image/upload/c_scale,w_1350/v1511271092/170906jogging_nb8ljx.jpg");*/
+animation: pulse 15s ease-in-out 0s normal infinite none running;
+background-repeat: no-repeat;
+padding-top: 100px;
+padding-bottom: 200px;
+margin-top: -60px;
+
+
+}
+@keyframes pulse{
+	0%,100%{
+				background-image: url("https://res.cloudinary.com/dkxkjk1ti/image/upload/c_scale,h_720,w_1350/v1512310618/artsfon.com-79245_zm6gy8.jpg");
+			}
+			50%{
+				background-image: url("https://res.cloudinary.com/dkxkjk1ti/image/upload/c_scale,h_720,w_1350/v1512725198/1280_rock_jennifer_lopez_gym_instagram_9963997_ver1.0_1280_720_l0vhhi.jpg");
+			}
+			100%{
+				background-image: url("https://res.cloudinary.com/dkxkjk1ti/image/upload/c_scale,h_720,w_1350/v1512310684/Gym_eiokgc.jpg");
+			}
+}
+.mainContent h1,h3{
+	text-align: center;
+	color: white;
+	font-family: 'Lato', sans-serif;
+
+}
+
+
+/*.mainContent h3{
+	text-align: center;
+	color: white;
+	font-family: 'Tangerine', cursive;
+
+}*/
+
+.mainContent .uk-button-primary{
+
+	text-align: center;
+
+	font-family: 'Lato', sans-serif;
+
+}
+.uk-button-default{
+	color: white;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+
+}
+.uk-button-default:hover{
+	border: 1px solid white;
+	color: white;
+}
+/*.uk-input{
+
+	width: 25%;
+	float: right;
+	position: relative;
+	right: 182px;
+	bottom: 45px;
+}*/
+
+.subscribe h3{
+	color: black;
+	text-align: left;
+}
+/*.aweSome{
+	color: black;
+	float: right;
+	position: relative;
+	bottom: 45px;
+    right: -340px;
+    font-family: 'Coustard', serif;
+    width: 188px;
+
+}*/
+.aweSome{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.aweSome:hover{
+
+	background-color:  white;
+}
+.choosePlan{
+	background-color: #F0EEEE;
+}
+.plan{
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.plan center{
+	font-family: 'Lato', sans-serif;
+}
+.hustle h2{
+	font-family: 'Lato', sans-serif;
+	/*background-image: url("https://res.cloudinary.com/dkxkjk1ti/image/upload/v1511363629/inside-gym_oem9mg.png");*/
+	position: relative;
+    bottom: 119px;
+    left: 20px;
+    color: white;
+
+
+}
+.beReady h2{
+	font-family: 'Lato', sans-serif;
+	/*background-image: url("https://res.cloudinary.com/dkxkjk1ti/image/upload/v1511364999/IMG_5365_yxypnp.jpg");*/
+	position: relative;
+    bottom: 119px;
+    left: 20px;
+    color: white;
+
+}
+.neverGiveUp h2{
+	font-family: 'Lato', sans-serif;
+	/*background-image: url("https://res.cloudinary.com/dkxkjk1ti/image/upload/v1511365118/IMG_0358_anbgq8.jpg");*/
+	position: relative;
+    bottom: 119px;
+    left: 20px;
+    color: white;
+
+
+}
+.imgContainer{
+	padding-top: 50px;
+}
+.legends{
+	padding-top: 50px;
+}
+ #test{
+
+	font-family: 'Lato', sans-serif;
+}
+.imgPara p{
+
+
+
+	font-family: 'Lato', sans-serif;
+	padding-top: 10px;
+}
+.imgContainer{
+
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.btn-success{
+	float: left;
+	position: relative;
+	 bottom: 265px;
+    right: 16px;
+   
+   
+}
+.btn-primary{
+	float: right;
+	position: relative;
+	 bottom: 265px;
+	 right: -16px;
+}
+.boxes{
+	display: inline-block;
+	background-color: transparent;
+	height: 100px;
+	width: 100px;
+	font-size: 1px;
+	padding: 1px;
+	color: white;
+	margin-right: 5px;
+	margin-left: 5px;
+	animation: skew 3s infinite;
+	transform: skew(20deg) translate(150px);
+	animation-direction: alternate;
+	opacity: .7;
+	text-align: center;
+
+}
+
+@keyframes skew {
+	0% {
+		transform: skewX(20deg);
+	}
+	100% {
+		transform: skewX(-20deg);
+	}
+}
+.footInfo{
+
+	
+	margin-top: 30px;
+	font-family: 'Lato', sans-serif;
+	background-color: #4CE58C;
+
+
+
+}
+.secDiv{
+	float: right;
+	/*position: relative;
+    /* right: -162px; 
+    left: 805px;
+    top: -90px;*/
+
+}
+
+
+
+
+/*body, html {
+	height: 100%;
+}*/
+
+
+/*body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}*/
+
+.icons{
+	word-spacing: 10px;
+}
+.rotate{
+	transition: transform 3s linear;
+
+}
+.box-rotate{
+	transform: rotate(360deg);
+	transform-origin: top right;
+}
+.glowPara h3{
+	font-family: 'Dosis', sans-serif;
+	font-size: 40px;
+	
+}
+.glowImg{
+	background-image: url("https://res.cloudinary.com/dkxkjk1ti/image/upload/v1514908415/download_hduoss.jpg");
+	background-repeat: no-repeat;
+    background-size: 100% 65%;
+    margin-bottom: -323px;
+    padding-bottom: 450px;
+    margin-top: -256px;
+}
+.glowPara{
+	padding-top: 250px;
+}
+.div{
+
+	width: 300px;
+    height: 240px;
+    position: relative;
+    border: 1px solid transparent;
+    left: 45px;
+    top: 50px;
+    transform-origin: bottom left;
+    transform: rotate(20deg);
+    background-image: url("https://res.cloudinary.com/dkxkjk1ti/image/upload/c_scale,h_240,w_300/v1505802424/girlsmile_btbzmy.png"); 
+
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-bottom: 122px;
+    padding-top: 70px;
+}
+
+
+
+
